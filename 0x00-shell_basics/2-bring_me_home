@@ -1,0 +1,4 @@
+#!/bin/bash
+pwd
+echo $HOME
+source ./2-bring_me_home
