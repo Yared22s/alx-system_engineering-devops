@@ -1,2 +1,2 @@
 #!/bin/bash
-./pwd
+cd /alx-system_engineering-devops
