@@ -1,0 +1,17 @@
+total 60
+drwxrwxr-x 2 alx alx 4096 ኤፕረ  4 10:58 .
+drwxrwxr-x 6 alx alx 4096 ኤፕረ  4 09:20 ..
+-rwxrw-r-- 1 alx alx   33 ኤፕረ  4 09:31 0-hello_world
+-rwxrw-r-- 1 alx alx   29 ኤፕረ  4 09:58 1-confused_smiley
+-rwxrw-r-- 1 alx alx   30 ኤፕረ  4 10:00 2-hellofile
+-rwxrw-r-- 1 alx alx   39 ኤፕረ  4 10:08 3-twofiles
+-rwxrw-r-- 1 alx alx   29 ኤፕረ  4 10:14 4-lastlines
+-rwxrw-r-- 1 alx alx   33 ኤፕረ  4 10:18 5-firstlines
+-rwxrw-r-- 1 alx alx   40 ኤፕረ  4 10:33 6-third_line
+-rwxrw-r-- 1 alx alx   86 ኤፕረ  4 10:53 7-file
+-rwxrw-r-- 1 alx alx   36 ኤፕረ  4 10:57 8-cwd_state
+-rw-rw-r-- 1 alx alx   12 ኤፕረ  4 10:53 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 alx alx   15 ኤፕረ  4 09:28 Hello_World.txt
+-rw-rw-r-- 1 alx alx  902 ኤፕረ  4 10:30 iacta
+-rw-rw-r-- 1 alx alx    0 ኤፕረ  4 10:58 ls_cwd_content
+-rw-rw-r-- 1 alx alx   27 ኤፕረ  4 09:30 README.md
