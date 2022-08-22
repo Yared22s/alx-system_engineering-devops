@@ -8,5 +8,5 @@ do
 echo "Hi"
     fi
     echo "Best School"
-    let cont=cont+1
+    ((cont=cont+1)) || true
 done

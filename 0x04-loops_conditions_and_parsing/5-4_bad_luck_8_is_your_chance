@@ -12,5 +12,5 @@ echo "good luck"
     else
 echo "Best School"
     fi
-    let CONTER=CONTER+1
+    ((CONTER=CONTER+1)) || true
 done

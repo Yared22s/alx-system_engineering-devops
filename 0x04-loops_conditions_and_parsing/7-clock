@@ -10,5 +10,5 @@ do
 echo  $minutes
 let minutes=minutes+1
     done
-    let hour=hour+1
+    ((hour=hour+1)) || true
 done
