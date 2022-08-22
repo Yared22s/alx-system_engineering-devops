@@ -8,7 +8,7 @@ do
     while [ $minutes -le 59 ];
     do
 echo  $minutes
-let minutes=minutes+1
+((minutes=minutes+1)) || true
     done
     ((hour=hour+1)) || true
 done
